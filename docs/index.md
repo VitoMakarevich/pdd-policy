@@ -2,13 +2,13 @@
 
 **Last Updated:** October 18, 2023
 **Effective Date:** October 18, 2023
-**Application Name:** Билеты и экзамен ПДД ГАИ Беларусь
-**Developer Name:** [Your Name]
+**Application Name:** Билеты и экзамен ПДД Беларусь
+**Developer Name:** Vitali Makarevich
 **Location:** Poland
 
 ## 1. Introduction
 
-Welcome to Билеты и экзамен ПДД ГАИ Беларусь! This Privacy Policy is designed to help you understand how we collect, use, and safeguard your information when you use our Android application, which is available on the Google Play Market. We respect your privacy and are committed to protecting any personal information that you may share with us.
+Welcome to Билеты и экзамен ПДД Беларусь! This Privacy Policy is designed to help you understand how we collect, use, and safeguard your information when you use our Android application, which is available on the Google Play Market. We respect your privacy and are committed to protecting any personal information that you may share with us.
 
 ## 2. Information We Collect
 
@@ -38,4 +38,4 @@ We may update this Privacy Policy as necessary to reflect changes to our informa
 
 If you have any questions or concerns about our Privacy Policy or our privacy practices, please contact us at [your contact email].
 
-Thank you for using Билеты и экзамен ПДД ГАИ Беларусь! We appreciate your trust in us and are committed to maintaining your privacy and providing a secure, enjoyable experience with our application.
+Thank you for using Билеты и экзамен ПДД Беларусь! We appreciate your trust in us and are committed to maintaining your privacy and providing a secure, enjoyable experience with our application.
